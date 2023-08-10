@@ -4,7 +4,6 @@ This Python script calculates the nearest mental health facility from a given li
 
 ## Prerequisites
 
-- Python 3.x
 - `requests` library: Install it using `pip install requests`
 
 ## Getting Started
