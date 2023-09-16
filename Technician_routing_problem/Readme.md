@@ -8,4 +8,11 @@ familiar with object-oriented-programming.
 
 This modeling example is at the intermediate level, where we assume that you know Python and are familiar with the 
 Gurobi Python API. In addition, you have some knowledge about building mathematical optimization models.
+### NOTE
+``` import xlrd
+xlrd.xlsx.ensure_elementtree_imported(False, None)
+xlrd.xlsx.Element_has_iter = True
+ ```
+use this while importing the libraries and also install a old version of xlrd for the smooth functioning of the notebook.
+
 
